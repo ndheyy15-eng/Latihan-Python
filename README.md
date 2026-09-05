@@ -15,4 +15,4 @@ _//Konversi sudut khusus Python karena penggunaan NumPy_
 
 _//Inisiasi rumus persamaan GLB dan GLBB_
 a. GLB : x = v0 * cos(theta_rad) * t
-b. GLBB : y = v0 * sin(theta_rad) * t - 1/2 * g * t_squared
+b. GLBB : y = v0 * sin(theta_rad) * t - 0.5 * g * t_squared
