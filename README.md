@@ -14,5 +14,5 @@ _//Konversi sudut khusus Python karena penggunaan NumPy_
 3. 60 deg = rad 1/3 pi
 
 _//Inisiasi rumus persamaan GLB dan GLBB_
-a. GLB : (x)t = v0 * cos theta * t
-b. GLBB : y(t)
+a. GLB : x = v0 * cos theta * t
+b. GLBB : y = 
